@@ -1,6 +1,8 @@
-## Hej og velkommen til Mercantec Open Source Software!
+# Hej og velkommen til Mercantec Open Source Software!
 
 Her har elever og ansatte mulighed for at hjælpe og vedligeholde OSS projekter og på samme tid lære en masse omkring GitHub struktur!
+
+## Liste over OSS Projekter og ansvarlige
 
 <!--
 

@@ -6,7 +6,7 @@ Her har elever og ansatte mulighed for at hjælpe og vedligeholde OSS projekter 
 Listen findes også på [Notion](https://mercantec.notion.site/Mercantec-Open-Source-Software-5e5b985cc75d4bdc912b463bcf1eebb1?pvs=4)
 | Projekt navn | Ansvarlig (SM) | Product Owner | Techstack |
 |--------------|-----------|-----------|-----------|
-|TBA|TBA|MERN|MERN
+|TBA|TBA|TBA|TBA
 |||||
 |||||
 <!--

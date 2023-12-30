@@ -3,7 +3,11 @@
 Her har elever og ansatte mulighed for at hjælpe og vedligeholde OSS projekter og på samme tid lære en masse omkring GitHub struktur!
 
 ## Liste over OSS Projekter og ansvarlige
-
+| Projekt navn | Ansvarlig | Techstack |
+|--------------|-----------|-----------|
+|TBA|TBA|MERN
+||||
+||||
 <!--
 
 **Here are some ideas to get you started:**

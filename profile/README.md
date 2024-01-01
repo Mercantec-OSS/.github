@@ -4,9 +4,9 @@ Her har elever og ansatte mulighed for at hjælpe og vedligeholde OSS projekter 
 
 ## Liste over OSS Projekter og ansvarlige 
 Listen findes også på [Notion](https://mercantec.notion.site/Mercantec-Open-Source-Software-5e5b985cc75d4bdc912b463bcf1eebb1?pvs=4)
-| Projekt navn | Ansvarlig (SM) | Product Owner | Techstack |
+| Projekt navn | Ansvarlig (SM) | Product Owner | Techstack | GitHub Projekt 
 |--------------|-----------|-----------|-----------|
-| [FindEnElev](https://github.com/Mercantec-OSS/FindEnElev) |TBA|TBA| Svelte & Firebase
+| [FindEnElev](https://github.com/Mercantec-OSS/FindEnElev) |TBA|TBA| Svelte & Firebase | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/1/views/1)
 |TBA|TBA|TBA|TBA
 |||||
 |||||

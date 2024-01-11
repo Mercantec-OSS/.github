@@ -7,7 +7,7 @@ Listen findes også på [Notion](https://mercantec.notion.site/Mercantec-Open-So
 | Projekt navn | Ansvarlig (SM) | Product Owner | Techstack | GitHub Projekt |
 |--------------|-----------|-----------|-----------|-----------|
 | [FindEnElev](https://github.com/Mercantec-OSS/FindEnElev) | [MathiasGS](https://github.com/Mercantec-MAGS) |TBA| Svelte, TS, Tailwind & Firebase | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/1/views/1) |
-| [MachineLearningWeb](https://github.com/Mercantec-OSS/MachineLearningWeb) | [MathiasGS](https://github.com/Mercantec-MAGS) |TBA| Python + .. | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/2/views/1) |
+| [WebML](https://github.com/Mercantec-OSS/WebML) | [MathiasGS](https://github.com/Mercantec-MAGS) |TBA| Python + .. | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/2/views/1) |
 |TBA|TBA|TBA|TBA
 |||||
 |||||

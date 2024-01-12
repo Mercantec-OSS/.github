@@ -6,8 +6,8 @@ Her har elever og ansatte mulighed for at hjælpe og vedligeholde OSS projekter 
 Listen findes også på [Notion](https://mercantec.notion.site/Mercantec-Open-Source-Software-5e5b985cc75d4bdc912b463bcf1eebb1?pvs=4)
 | Projekt navn | Ansvarlig (SM) | Product Owner | Techstack | GitHub Projekt |
 |--------------|-----------|-----------|-----------|-----------|
-| [FindEnElev](https://github.com/Mercantec-OSS/FindEnElev) | [MathiasGS](https://github.com/Mercantec-MAGS) |TBA| Svelte, TS, Tailwind & Firebase | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/1/views/1) |
-| [WebML](https://github.com/Mercantec-OSS/WebML) | [MathiasGS](https://github.com/Mercantec-MAGS) |TBA| Python, Tensorflow + .. | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/2/views/1) |
+| [FindEnElev](https://github.com/Mercantec-OSS/FindEnElev) | [Mathias GS](https://github.com/Mercantec-MAGS) |TBA| Svelte, TS, Tailwind & Firebase | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/1/views/1) |
+| [WebML](https://github.com/Mercantec-OSS/WebML) | [Mathias GS](https://github.com/Mercantec-MAGS) |TBA| Python, Tensorflow + .. | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/2/views/1) |
 |TBA|TBA|TBA|TBA
 |||||
 |||||

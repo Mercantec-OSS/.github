@@ -12,13 +12,10 @@ Listen findes også på [Notion](https://mercantec.notion.site/Mercantec-Open-So
 |TBA|TBA|TBA|TBA
 |||||
 |||||
-<!--
 
-**Here are some ideas to get you started:**
+## Roller og ansvar for projekterne
+Scrum Master (SM) har ansvaret for at indkalde til møder, når det er nødvendigt. Det er ikke et krav, at projektteamet skal have daglige standup meetings eller lignende. Dog skal der arbejdes med sprints og deadlines, som SM har ansvaret for at sikre overholdelse af.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Product Owner (PO) har ansvaret for at prioritere opgaverne og vedligeholde en backlog for forskellige issues på repositoryet. Hvis der er aktive kunder, som bruger platformen, er det PO's ansvar også at etablere kontakt med dem og indhente information om ændringer eller problemer.
+
+SM og PO er de hovedansvarlige for projektet. Dog kan der for hvert projekt udpeges andre ansvarlige, såsom ansvarlig for hosting, database eller design, afhængigt af projektets størrelse og kompleksitet.

@@ -1,4 +1,4 @@
-# Hej og velkommen til Mercantec Open Source Software!
+# Velkommen til Mercantec Open Source Software!
 
 Her har elever og ansatte mulighed for at hjælpe og vedligeholde OSS projekter og på samme tid lære en masse omkring programmering og GitHub struktur!
 

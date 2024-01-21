@@ -9,9 +9,9 @@ Listen findes også på [Notion](https://mercantec.notion.site/Mercantec-Open-So
 | [FindEnElev](https://github.com/Mercantec-OSS/FindEnElev) | [Mathias GS](https://github.com/Mercantec-MAGS) |TBA| Svelte, TS, Tailwind & Firebase | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/1/views/1) |
 | [WebML](https://github.com/Mercantec-OSS/WebML) | [Mathias GS](https://github.com/Mercantec-MAGS) |TBA| Python, Tensorflow + .. | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/2/views/1) |
 | [FormueStatus.dk](https://github.com/Mercantec-OSS/Formuestatus) | TBA | [Mathias GS](https://github.com/Mercantec-MAGS) | Blazor eller Svelte, Firebase, Bootstrap | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/3/views/1) |
-|TBA|TBA|TBA|TBA
-|||||
-|||||
+|TBA|TBA|TBA|TBA|TBA
+|TBA|TBA|TBA|TBA|TBA
+
 
 ## Roller og ansvar for projekterne
 Scrum Master (SM) har ansvaret for at indkalde til møder, når det er nødvendigt. Det er ikke et krav, at projektteamet skal have daglige standup meetings eller lignende. Dog skal der arbejdes med sprints og deadlines, som SM har ansvaret for at sikre overholdelse af.

@@ -11,7 +11,6 @@ Listen findes også på [Notion](https://mercantec.notion.site/Mercantec-Open-So
 | [FormueStatus.dk](https://github.com/Mercantec-OSS/Formuestatus) | TBA | [Mathias GS](https://github.com/Mercantec-MAGS) | Svelte, Firebase & Bootstrap | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/3/views/1) |
 | [Mercantec-Audio](https://github.com/Mercantec-OSS/Audio) | [Alexander](https://github.com/Alexandertp) | Anders & [Peter J](https://github.com/pejopejo)| TBD | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/4) |
 |TBA|TBA|TBA|TBA|TBA
-|TBA|TBA|TBA|TBA|TBA
 
 
 ## Roller og ansvar for projekterne

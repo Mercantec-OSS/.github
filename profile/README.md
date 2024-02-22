@@ -1,6 +1,6 @@
 # Velkommen til Mercantec Open Source Software!
 
-Her har elever og ansatte mulighed for at hjælpe og vedligeholde OSS projekter og på samme tid lære en masse omkring programmering og GitHub struktur!
+Her har elever og ansatte mulighed for at hjælpe og vedligeholde OSS projekter og på samme tid lære en masse omkring programmering og Git(Hub) struktur!
 
 ## Liste over OSS Projekter og ansvarlige 
 Listen findes også på [Notion](https://mercantec.notion.site/Mercantec-Open-Source-Software-5e5b985cc75d4bdc912b463bcf1eebb1?pvs=4)

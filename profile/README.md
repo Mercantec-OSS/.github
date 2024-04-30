@@ -10,7 +10,7 @@ Listen findes også på [Notion](https://mercantec.notion.site/Mercantec-Open-So
 | [WebML](https://github.com/Mercantec-OSS/WebML) | TBA| [Mathias GS](https://github.com/Mercantec-MAGS) | Python, Tensorflow & .. | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/2/views/1) |
 | [FormueStatus.dk](https://github.com/Mercantec-OSS/Formuestatus) | TBA | [Mathias GS](https://github.com/Mercantec-MAGS) | Svelte, Firebase & Bootstrap | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/3/views/1) |
 | [Mercantec-Audio](https://github.com/Mercantec-OSS/Audio) | [Alexander](https://github.com/Alexandertp) | Anders & [Peter J](https://github.com/pejopejo)| TBD | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/4) |
-| [AR-Hjemmeside](https://github.com/Mercantec-OSS/AR-Hjemmeside) | [Simon](https://github.com/orgs/Mercantec-OSS/people/Chulmoo) | TBA | Blazor | TBA
+| [AR-Hjemmeside](https://github.com/Mercantec-OSS/AR-Hjemmeside) | [Simon](https://github.com/Chulmoo) | TBA | Blazor | TBA
 |TBA|TBA|TBA|TBA|TBA
 
 

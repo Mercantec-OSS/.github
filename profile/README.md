@@ -3,7 +3,7 @@
 Her har elever og ansatte mulighed for at hjælpe og vedligeholde OSS projekter og på samme tid lære en masse omkring programmering og Git(Hub) struktur!
 
 ## Liste over OSS Projekter og ansvarlige 
-Listen findes også på [Notion](https://mercantec.notion.site/Mercantec-Open-Source-Software-5e5b985cc75d4bdc912b463bcf1eebb1?pvs=4)
+Daglig kommunikation omkring projekterne sker på [teams](https://teams.microsoft.com/l/team/19%3AEJV49YNiFFks6YwlXfOPgd9J9gpFg4oCxvrhyr7oIH81%40thread.tacv2/conversations?groupId=281a88d6-c976-436b-8758-ef8f649dfd07&tenantId=17aab4ce-4b26-487e-9bea-1e2a70348bf0) | kræver EDU-konto
 | Projekt navn | Ansvarlig (SM) | Product Owner | Techstack | GitHub Projekt |
 |--------------|-----------|-----------|-----------|-----------|
 | [FindEnElev](https://github.com/Mercantec-OSS/FindEnElev) | TBA | [Mathias GS](https://github.com/Mercantec-MAGS) | Svelte, TS, Tailwind & Firebase | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/1/views/1) |

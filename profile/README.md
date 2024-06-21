@@ -11,7 +11,7 @@ Daglig kommunikation omkring projekterne sker på [teams](https://teams.microsof
 | [FormueStatus.dk](https://github.com/Mercantec-OSS/Formuestatus) | TBA | [Mathias GS](https://github.com/Mercantec-MAGS) | Svelte, Firebase & Bootstrap | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/3/views/1) |
 | [Mercantec-Audio](https://github.com/Mercantec-OSS/Audio) | [Alexander](https://github.com/Alexandertp) | Anders & [Peter J](https://github.com/pejopejo)| TBD | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/4) |
 | [AR-Hjemmeside](https://github.com/Mercantec-OSS/AR-Hjemmeside) | [Simon](https://github.com/Chulmoo) | TBA | Blazor | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/6)
-| [AR-Hjemmeside](https://github.com/Mercantec-OSS/quiz) | [Mads](https://github.com/orgs/Mercantec-OSS/people/xXTGSXVII) | TBA | C# Web API | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/9)
+| [Quiz-applikation](https://github.com/Mercantec-OSS/quiz) | [Mads](https://github.com/orgs/Mercantec-OSS/people/xXTGSXVII) | TBA | C# Web API | [Projekt](https://github.com/orgs/Mercantec-OSS/projects/9)
 |TBA|TBA|TBA|TBA|TBA
 
 
